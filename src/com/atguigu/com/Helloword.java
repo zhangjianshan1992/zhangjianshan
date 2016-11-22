@@ -7,6 +7,6 @@ public class Helloword {
 		System.out.println("怎么回事啊！！！!");
 		System.out.println("怎么回事啊！！！!");
 		
-		system.out.prin
+		
 	}
 }
